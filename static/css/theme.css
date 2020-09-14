@@ -80,9 +80,6 @@ b, strong, label, th {
 #grav-logo {
     max-width: 60%;
 }
-#grav-logo path {
-    fill: #fff !important;
-}
 #sidebar {
     font-weight: 300 !important;
 }
